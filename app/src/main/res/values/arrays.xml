@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_newz_options">
+        <item>@string/pref_newz_label_emailed</item>
+        <item>@string/pref_newz_label_shared</item>
+        <item>@string/pref_newz_label_viewed</item>
+    </array>
+
+    <array name="pref_newz_values">
+        <item>@string/pref_newz_value_emailed</item>
+        <item>@string/pref_newz_value_shared</item>
+        <item>@string/pref_newz_value_viewed</item>
+    </array>
+
+    <array name="pref_days_options">
+        <item>@string/pref_days_label_1</item>
+        <item>@string/pref_days_label_7</item>
+        <item>@string/pref_days_label_30</item>
+    </array>
+
+    <array name="pref_days_values">
+        <item>@string/pref_days_value_1</item>
+        <item>@string/pref_days_value_7</item>
+        <item>@string/pref_days_value_30</item>
+    </array>
+
+
+</resources>
